@@ -12,7 +12,8 @@ const menu = [
     category: 'Breakfast',
     price: 13.99,
     img: 'https://www.pexels.com/photo/cooked-rice-and-curry-food-served-on-white-plate-674574/',
-    desc: `Made from urad dal and rice, this soft puff of rice is a healthy treat due to its lightness and its nutritional content. Idli is said to be light as it contains no fats, saturated fats or cholesterol. Further, it has merely 39 calories per piece, which seems measly to the 2,000-calorie daily requirement. `,
+    desc: `Made from urad dal and rice, this soft puff of rice is a healthy treat due to its lightness and its nutritional content. 
+    Idli is said to be light as it contains no fats, saturated fats or cholesterol. Further, it has merely 39 calories per piece, which seems measly to the 2,000-calorie daily requirement. `,
   },
   {
     id: 3,
@@ -20,7 +21,8 @@ const menu = [
     category: 'Breakfast',
     price: 6.99,
     img: 'https://www.pexels.com/photo/platter-of-foods-941869/,
-    desc: `vDosa is a fermented food which is easy to digest. Fermentation of foods increases the bioavailability of nutrients which helps the body to assimilate more nutrition`,
+    desc: `Dosa is a fermented food which is easy to digest. 
+    Fermentation of foods increases the bioavailability of nutrients which helps the body to assimilate more nutrition`,
   },
   {
     id: 4,
@@ -36,7 +38,9 @@ const menu = [
     category: 'Beverages',
     price: 22.99,
     img: 'https://www.pexels.com/photo/close-up-of-coffee-cup-on-table-312418/,
-    desc: `Coffee with added milk provides all the macro nutrients in good amounts; just one ounce of milk provides approximately 1.5 g of carbohydrates, 1g of protein and 1 gram of fat. Milk also provides essential micro nutrients like calcium, with 100 g of milk providing 123 mg of calcium`,
+    desc: `Coffee with added milk provides all the macro nutrients in good amounts; 
+    just one ounce of milk provides approximately 1.5 g of carbohydrates, 1g of protein and 1 gram of fat. 
+    Milk also provides essential micro nutrients like calcium, with 100 g of milk providing 123 mg of calcium`,
   },
   {
     id: 6,
@@ -44,7 +48,9 @@ const menu = [
     category: 'Beverages',
     price: 18.99,
     img: 'https://www.pexels.com/photo/brown-bread-on-brown-woven-basket-7936011/',
-    desc: `Numerous studies have shown that a variety of teas may boost your immune system, fight off inflammation, and even ward off cancer and heart disease. While some brews provide more health advantages than others, there's plenty of evidence that regularly drinking tea can have a lasting impact on your wellness`,
+    desc: `Numerous studies have shown that a variety of teas may boost your immune system, 
+    fight off inflammation, and even ward off cancer and heart disease. While some brews provide more health advantages than 
+    others, there's plenty of evidence that regularly drinking tea can have a lasting impact on your wellness`,
   },
   {
     id: 7,
@@ -52,7 +58,9 @@ const menu = [
     category: 'Beverages',
     price: 8.99,
     img: 'https://www.pexels.com/photo/strawberry-shake-103566/',
-    desc: `Sugar provides instant energy to the brain to function properly. If you are going for a fruity milkshake-like Heritage Strawberry Milkshake, it is a good source of fibre too. Most fruits contain vitamin C which boosts immunity. `,
+    desc: `Sugar provides instant energy to the brain to function properly. 
+    If you are going for a fruity milkshake-like Heritage Strawberry Milkshake, it is a good source of fibre too.
+    Most fruits contain vitamin C which boosts immunity. `,
   },
   {
     id: 8,
@@ -60,7 +68,8 @@ const menu = [
     category: 'Snacks',
     price: 12.99,
     img: 'https://www.pexels.com/photo/indian-dish-pani-puri-11574756/',
-    desc: `Gol Gappe. The delicious snack of puris filled with tangy water is known as Gol Gappe in Northern India. Almost all of North India, except Haryana, refers to it as Gol Gappe  `,
+    desc: `Gol Gappe. The delicious snack of puris filled with tangy water is known as Gol Gappe in Northern India. 
+    Almost all of North India, except Haryana, refers to it as Gol Gappe  `,
   },
   {
     id: 9,
