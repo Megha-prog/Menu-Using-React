@@ -11,7 +11,7 @@ const menu = [
     title: 'Edli',
     category: 'Breakfast',
     price: 13.99,
-    img: 'https://www.pexels.com/photo/cooked-rice-and-curry-food-served-on-white-plate-674574/',
+    img: 'https://www.pexels.com/photo/tasty-indian-dishes-with-spices-and-herbs-4331490/',
     desc: `Made from urad dal and rice, this soft puff of rice is a healthy treat due to its lightness and its nutritional content. 
     Idli is said to be light as it contains no fats, saturated fats or cholesterol. Further, it has merely 39 calories per piece, which seems measly to the 2,000-calorie daily requirement. `,
   },
