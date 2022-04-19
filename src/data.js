@@ -4,7 +4,7 @@ const menu = [
     title: 'buttermilk pancakes',
     category: 'breakfast',
     price: 15.99,
-    img: './images/item-1.jpeg',
+    img: 'https://images.pexels.com/photos/2474661/pexels-photo-2474661.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     desc: `There's a reason buttermilk is so often used in pancakes. The acid in the buttermilk kickstarts the baking soda into action for extra height. It also helps to break down strands of gluten, leading to a fine and tender crumb. Additionally, it lends a subtle tang, exactly what we had in mind for our classic stack. `,
   },
   {
